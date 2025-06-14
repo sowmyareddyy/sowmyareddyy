@@ -1,1 +1,58 @@
-# sowmyareddyvangooru
+### 👋 Hey, I'm Sowmya Reddy Vangooru
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sowmyareddyvangooru&label=Profile%20views&color=blueviolet&style=flat" alt="sowmyareddyvangooru" />
+</p>
+
+---
+
+🎓 I'm an **undergraduate** at **Anurag University**  
+💻 **AI Enthusiast** | 💡 **Frontend Developer** | ☁️ **Certified System Administrator (ServiceNow)**
+
+- 🌱 Currently exploring: **AI tools, frontend frameworks & DevOps basics**
+- 🚀 Passionate about building **responsive websites** and **AI-driven applications**
+- 🛠️ Projects in: **Python, JavaScript, HTML, CSS, Bootstrap, SQL**
+- 📫 Reach me at: **vangoorusowmya@gmail.com**
+
+---
+
+### 🔗 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sowmyareddyvangooru" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="https://instagram.com/sowmyacodes" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Skills & Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowmyareddyvangooru&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sowmyareddyvangooru&show_icons=true&locale=en" alt="github-stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sowmyareddyvangooru" alt="streak-stats" />
+</p>
