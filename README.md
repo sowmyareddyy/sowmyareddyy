@@ -12,7 +12,7 @@
 - 🌱 Currently exploring: **AI tools, frontend frameworks & DevOps basics**
 - 🚀 Passionate about building **responsive websites** and **AI-driven applications**
 - 🛠️ Projects in: **Python, JavaScript, HTML, CSS, Bootstrap, SQL**
-- 📫 Reach me at: **vangoorusowmya@gmail.com**
+- 📫 Reach me at: **sowmyareddy1918@gmail.com**
 
 ---
 
@@ -22,9 +22,7 @@
   <a href="https://www.linkedin.com/in/sowmyareddyvangooru" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="https://instagram.com/sowmyacodes" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
-  </a>
+ 
 </p>
 
 ---
@@ -43,16 +41,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowmyareddyvangooru&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sowmyareddyvangooru&show_icons=true&locale=en" alt="github-stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sowmyareddyvangooru" alt="streak-stats" />
-</p>
