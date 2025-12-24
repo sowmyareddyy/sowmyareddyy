@@ -7,11 +7,10 @@
 ---
 
 🎓 I'm an **undergraduate** at **Anurag University**  
-💻 **AI Enthusiast** | 💡 **Frontend Developer** | ☁️ **Certified System Administrator (ServiceNow)**
+💻 **AI Enthusiast** | 💡 **Frontend Developer** | ☁️ **Certified System Administrator (ServiceNow)** | **Certified Application Developer (ServiceNow)**
 
-- 🌱 Currently exploring: **AI tools, frontend frameworks**
-- 🚀 Passionate about building **responsive websites** and **AI-driven applications**
-- 🛠️ Projects in: **Python, JavaScript, HTML, CSS, Bootstrap, SQL**
+
+- 🛠️ Projects in: **Python,Java, HTML, CSS, Bootstrap, SQL**
 - 📫 Reach me at: **sowmyareddy1918@gmail.com**
 
 ---
