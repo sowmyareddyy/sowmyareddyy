@@ -10,7 +10,6 @@
 💻 **AI Enthusiast** | 💡 **Frontend Developer** | ☁️ **Certified System Administrator (ServiceNow)** | **Certified Application Developer (ServiceNow)**
 
 
-- 🛠️ Projects in: **Python,Java, HTML, CSS, Bootstrap, SQL**
 - 📫 Reach me at: **sowmyareddy1918@gmail.com**
 
 ---
